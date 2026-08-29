@@ -1,8 +1,13 @@
 # CoreView Task Manager
 
-A cross-platform desktop task manager built with C++17 and [Dear ImGui](https://github.com/ocornut/imgui). Graphite-slate UI, teal/steel-blue accents, rounded geometry, and a soft hand-rolled glow — a reimagining of the system monitor, not a clone of one.
+A cross-platform desktop task manager built with C++17 and [Dear ImGui]. Graphite-slate UI, teal/steel-blue accents, rounded geometry, and a soft hand-rolled glow — a reimagining of the system monitor, not a clone of one.
 
-![screenshot placeholder](docs/screenshot.png)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Built with C++](https://img.shields.io/badge/Built%20with-C%2B%2B-00599C.svg)](https://isocpp.org/)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)]()
+[![UI](https://img.shields.io/badge/UI-Dear%20ImGui-ff69b4.svg)](https://github.com/ocornut/imgui)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
+[![GitHub stars](https://img.shields.io/github/stars/butaraul/CoreView.svg?style=social)](https://github.com/butaraul/CoreView/stargazers)
 
 ## Features
 
