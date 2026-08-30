@@ -61,7 +61,7 @@ On macOS, installing GLFW via Homebrew (`brew install glfw`) lets CMake find it 
 ## Building
 
 ```bash
-git clone <this-repo>
+git clone https://github.com/butaraul/CoreView-Task-Manager.git task manager
 cd taskmanager
 mkdir build && cd build
 cmake ..
